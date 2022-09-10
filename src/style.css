@@ -24,7 +24,7 @@ html {
 }
 
 body { 
-    background-image: url(../imagens/background.png);
+    background-image: url('./imagens/background.png');
     background-repeat: repeat;
 }
 
