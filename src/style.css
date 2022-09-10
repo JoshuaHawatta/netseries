@@ -1,15 +1,15 @@
 /*FONTS*/
 @font-face {
     font-family: "gothamLight";
-    src: url(../Fontes/GothamLight.ttf);
+    src: url('./fonts/GothamLight.ttf');
 }
 @font-face {
     font-family: "gothamMedium";
-    src: url(../Fontes/GothamMedium.ttf);
+    src: url('./fonts/GothamMedium.ttf');
 }
 @font-face {
     font-family: "poppins";
-    src: url(../Fontes/Poppins-Regular.ttf);
+    src: url('./fonts/Poppins-Regular.ttf');
 }
 
 /*BASIC_VALUES*/
@@ -24,7 +24,7 @@ html {
 }
 
 body { 
-    background-image: url('./imagens/background.png');
+    background-image: url('./images/background.png');
     background-repeat: repeat;
 }
 
