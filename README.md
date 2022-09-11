@@ -2,13 +2,17 @@
 
 ## How does it work?
 
-Just search a movie and the API (IMDb) will do the rest!
+* Just search a movie and the API (IMDb) will do the rest!
 <br/>
 
 ## What i've learned?
 
-Not only consuming APIs, but: DOM manipulation with a real clean code.
+* Consuming APIs
+* DOM manipulation
+* Good pratices/Clean-code.
 <br/>
 
 ## Tecnologies used at the project:
-Vanilla JavaScript, HTML and CSS.
+* Vanilla JavaScript
+* HTML
+* CSS.
