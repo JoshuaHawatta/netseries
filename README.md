@@ -18,6 +18,6 @@
 * CSS.
 <br />
 
-<a href="https://netseries.netlify.app/" target="_blank">
+<a href="https://netseries.netlify.app/" target="_blank" rel="noreferrer">
   <img width="200" src="https://img.shields.io/badge/Try it Yourself!-green?style=for-the-badge" />
 </a>
